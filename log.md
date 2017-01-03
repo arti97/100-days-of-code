@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 1, 2017 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 1, 2017 
 
 **Today's Progress**: Got the django server running; successful in giving curl command.
 
@@ -9,14 +8,13 @@
 
 **Link to work:** [Django_rest_framework](https://github.com/arti97/curl-postgre)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: January 2, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Android app to send data to django server
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Basic functionality successfully coded, but not making any headway with the failed GET requests.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Android App](https://github.com/arti97/android-django)
 
 
 ### Day 1: June 27, Monday
